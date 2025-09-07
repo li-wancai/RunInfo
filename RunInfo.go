@@ -47,6 +47,7 @@ func (app *RunTimeBaseN) Start() {
 		app.RunTime.Start.Format("20060102 15:04:05"))
 	EQUseApi.SendTxT(msginfo, EQUseApi.SendToGroupList, []string{}, []string{})
 	log.Info(msginfo)
+
 	go ExceptErr("程序中途退出")
 }
 func (app *RunTimeBaseN) Stop() {
