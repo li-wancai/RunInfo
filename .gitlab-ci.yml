@@ -1,0 +1,10 @@
+mirror_to_github:
+  stage: deploy
+  script:
+    - git config --global user.email "earnquant@gmail.com"
+    - git config --global user.name "li-wancai"
+    - git remote add github https://${GITHUB_TOKEN}@github.com/li-wancai/RunInfo.git || true
+    - git push github --all
+    - git push github --tags
+  only:
+    - main  # 或者你想同步的分支
