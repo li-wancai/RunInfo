@@ -26,6 +26,8 @@ var log *Logger.LogN
 
 func SetLogger(l *Logger.LogN) {
 	log = l //配置log信息
+	EQUseApi.SetLogger(log)
+	Formulae.SetLogger(log)
 }
 
 type RunTimeBaseN struct {
