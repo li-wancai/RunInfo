@@ -68,8 +68,8 @@ github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcU
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6 h1:TtyC78WMafNW8QFfv3TeP3yWNDG+uxNkk9vOrnDu6JA=
 github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6/go.mod h1:h8272+G2omSmi30fBXiZDMkmHuOgonplfKIKjQWzlfs=
-gitlab.liwancai.com/liwancai/EQUseApi v1.1.8 h1:ylvZn1SM5cH3Pu5iAqiT+6FhAGyvkxHMpR+oVl3riNE=
-gitlab.liwancai.com/liwancai/EQUseApi v1.1.8/go.mod h1:vxh2QKraunluOxvw/DfURicl6lyuseTlHKuC0/uV7KM=
+gitlab.liwancai.com/liwancai/EQUseApi v1.1.10 h1:9XgsbYAZpZZeYDJ7070xDioHcjg+tne0QM629jg90iM=
+gitlab.liwancai.com/liwancai/EQUseApi v1.1.10/go.mod h1:l5UySOGsDvIwXp6ATMMDRJYRgVaAvhABNlf5g2nyexw=
 gitlab.liwancai.com/liwancai/GoScripts v1.1.8 h1:4GyPCzutki34/N70ox4B4pRQzWBzFe3Xc8RvadJdrM8=
 gitlab.liwancai.com/liwancai/GoScripts v1.1.8/go.mod h1:wkOwi83xTAzf1Xydd+imFYrVBaBZB8iOMuDmr3rRyeQ=
 gitlab.liwancai.com/liwancai/Logger v1.1.8 h1:VmoZT1SVQmfsPSO8gZqGbD0ZnM23Xgo+Abi7Yxr4f+A=

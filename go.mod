@@ -3,7 +3,7 @@ module gitlab.liwancai.com/liwancai/RunInfo
 go 1.25.0
 
 require (
-	gitlab.liwancai.com/liwancai/EQUseApi v1.1.8
+	gitlab.liwancai.com/liwancai/EQUseApi v1.1.10
 	gitlab.liwancai.com/liwancai/GoScripts v1.1.8
 	gitlab.liwancai.com/liwancai/Logger v1.1.8
 )
